@@ -1,1 +1,1 @@
-# -Mini-File-System-Simulator-
+# Mini-File-System-Simulator-
